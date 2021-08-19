@@ -4,8 +4,6 @@
 
 2020年秋季学期哈工大（深圳）计算机科学与技术学院2018级《软件工程》课程项目
 
-项目框架特别感谢：https://github.com/forkdog/Bookkeeping
-时间有限，基于此项目魔改……
 
 ## 开发进展
 
@@ -52,3 +50,5 @@
 
 - [x] **夜间模式（深色模式）和浅色模式进行切换**
 
+
+Special Thanks to [Bookkeeping](https://github.com/forkdog/Bookkeeping)
